@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.venv/
+venv/
+outputs/
+logs/
+wandb/
+checkpoints/
+*.out
+*.err
+
